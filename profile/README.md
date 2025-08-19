@@ -54,7 +54,11 @@ Once you've experimented with the model, we can explore its construction. This d
 
 > **A Note on Heuristics and Intuition:**
 >
-> Today, most technological and scientific solutions are purely algorithmic. While there has been acknowledged progress, countless problems remain unsolved. Traditional methods often fall short. It seems logical that heuristic-based methods and intuitive solutions can provide significant help. As S. Wolfram notes, heuristics are used to make AI solve problems in a more human-like way. We, as humans, also need to be more human and humane.
+> Today, most technological and scientific solutions are purely algorithmic. While there has been acknowledged progress, countless problems remain unsolved. Traditional methods often fall short. It seems logical that heuristic-based methods and intuitive solutions can provide significant help. As Stephen Wolfram writes in *What Is ChatGPT Doing... and Why Does It Work?*:
+>
+> > "... how can one tell how big a neural net one will need for a particular task? It’s something of an art. At some level the key thing is to know “how hard the task is”. But for human-like tasks that’s typically very hard to estimate. Yes, there may be a systematic way to do the task very “mechanically” by computer. But it’s hard to know if there are what one might think of as tricks or shortcuts that allow one to do the task at least at a “human-like level” vastly more easily. It might take enumerating a giant game tree to “mechanically” play a certain game; but there might be a much easier (“heuristic”) way to achieve “human-level play”."
+>
+> Heuristics are used to make AI solve problems in a more human-like way. We, as humans, also need to be more human and humane.
 >
 > The world is focused on the potential of AI, but we often forget our own hidden potential. Intuition and heuristics are crucial for navigating the growing complexity and information overload of our world. They are the way forward for leveraging our own abilities in problem-solving.
 
