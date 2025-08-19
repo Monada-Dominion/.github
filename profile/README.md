@@ -18,6 +18,7 @@ Here is an overview of the domains within Monada Dominion. Each domain builds up
 
 | Domain | Focus | Description | Link |
 | :--- | :--- | :--- | :--- |
+| **Domain 0** | Research & The Void | The space of pure research and potential. | [Explore](https://github.com/Monada-Dominion/domain_0) |
 | **Domain 1** | Mindfulness & Mindfitness | The starting point for any meaningful endeavor. | [Explore](https://github.com/Monada-Dominion/domain_1) |
 | **Domain 2** | Deep State & Meditation | Deepening mindfulness and exploring archetypal states. | [Explore](https://github.com/Monada-Dominion/domain_2) |
 | **Domain 3** | The Universal Matrix in Practice | Hands-on interaction with the matrix through cards and games. | [Explore](https://github.com/Monada-Dominion/domain_3) |
